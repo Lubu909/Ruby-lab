@@ -1,4 +1,4 @@
-## Testowanie aplikacji w Ruby, [wpisać swój mail kontaktowy]
+## Testowanie aplikacji w Ruby, klubiejewski@sigma.ug.edu.pl
 
 1. [ ] [Notatki z Ruby](ruby.md)
 2. [ ] [Notatki z RSpec](rspec.md)
