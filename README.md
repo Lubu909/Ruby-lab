@@ -2,11 +2,11 @@
 
 1. [ ] [Notatki z Ruby](ruby.md)
 2. [ ] [Notatki z RSpec](rspec.md)
-3. [ ] [Zadanie 1 (zaliczenie)](https://github.com/Lubu909/Ruby-lab/Zadanie1) – deadline 13.11.2016
+3. [ ] [Zadanie 1 (zaliczenie)](https://github.com/Lubu909/Ruby-lab/tree/master/Zadanie1) – deadline 13.11.2016
   - przykładowe projekty na zaliczenie –
   [03-rspec](https://github.com/egzamin/tar/tree/master/labs/03-rspec),
   [04-write-test](https://github.com/egzamin/tar/tree/master/labs/04-write_tests)
-4. [ ] [Zadanie 2 (egzamin)](https://github.com/Lubu909/Ruby-lab/Zadanie2) – deadline 08.01.2017
+4. [ ] [Zadanie 2 (egzamin)](https://github.com/Lubu909/Ruby-lab/tree/master/Zadanie2) – deadline 08.01.2017
   - przykładowe projekty na egzamin –
   [06-integration_tests](https://github.com/egzamin/tar/tree/master/labs/06-integration_tests),
   [07-mocks](https://github.com/egzamin/tar/tree/master/labs/07-mocks)
